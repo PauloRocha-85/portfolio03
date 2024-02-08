@@ -56,43 +56,43 @@ const dataProjects = [
 
     },
     {
-        title: 'Death Cat Grocery Store',
+        title: 'Sejafit',
         date: '28 de Setembro de 2021',
         description: "Um E-Commerce utilizando apenas JavaScript (com localStorage) 🚀 <br><br> O objetivo desse segundo checkpoint era de desenvolver não só habilidades técnicas, mas também soft-skills como o trabalho em equipe e a organização. <br> Para essa entrega, nossa equipe (composta por Marcelo Garofalo, Filipe Farias e eu) decidiu transformar a entrega em uma loja virtual com JavaScript, alinhando o projeto com a nossa matéria de Programação Imperativa, ministrada pela instrutora Ana Cristina Teixeira. <br><br> Decidimos explorar as funcionalidades do localStorage para poder armazenar e recuperar as informações dos produtos adicionados ao carrinho, permitindo ao usuário alterar a quantidade de itens ou removê-los completamente. <br><br> Como demonstra o vídeo abaixo, mesmo após fecharmos o nosso navegador, os itens persistem em nosso carrinho de compras devido ao uso do localStorage, que armazena essas informações em nosso browser e possibilita a recuperação destes dados quando a página é aberta novamente.",
-        videoSrc: 'https://streamable.com/e/tlz8yr',
-        linkedin: 'https://www.linkedin.com/posts/rhuanbello_javascript-developer-digital-activity-6849053582579388416-IfoH',
-        repository: 'https://github.com/rhuanbello/deathcatgrocerystore',
-        site: 'https://deathcatgrocerystore.vercel.app/'
+        videoSrc: 'https://streamable.com/e/sqsuf3',
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7160777370524631040/',
+        repository: 'https://github.com/PauloRocha-85/sejafit',
+        site: 'https://paulorocha-85.github.io/sejafit/'
 
     },
     {
-        title: 'Youtube Clone',
+        title: 'AppClima',
         date: '23 de Setembro de 2021',
         description: "Essa foi a minha tentativa de clonar a interface do YouTube utilizando HTML5, CSS3 e JavaScript. Com o conceito Don't Repeat Yourself na mente, fiz com que todo o projeto rodasse em uma única página manipulada pelo JavaScript, que fica responsável por atualizar o source e a descrição dos vídeos dependendo de qual vídeo o usuário seleciona, além de ocultar/exibir o sidebar e a main para dar destaque ao vídeo. Estou há aproximadamente um mês e meio estudando JavaScript e estou bem satisfeito por já estar conseguindo utilizá-lo para facilitar o desenvolvimento dos meus projetos, isso é extremamente motivador. Voltarei nesse projeto em breve para aprimorá-lo cada vez mais.",
-        videoSrc: 'https://streamable.com/e/q700dy',
-        linkedin: 'https://www.linkedin.com/posts/rhuanbello_html-css-developer-activity-6845803020157116417-39dj',
-        repository: 'https://github.com/rhuanbello/clone-youtube',
-        site: 'https://youtube-rhuanbello.vercel.app/'
+        videoSrc: 'https://streamable.com/e/pmd1u1',
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7158588359185989632/',
+        repository: 'https://github.com/PauloRocha-85/appclima',
+        site: 'https://paulorocha-85.github.io/appclima/'
 
     },
     {
-        title: 'Digital Flix',
+        title: 'Gerador de Links',
         date: 'Em desenvolvimento',
         description: "Em desenvolvimento",
-        videoSrc: '',
-        linkedin: '',
-        repository: '',
-        site: ''
+        videoSrc: 'https://streamable.com/e/aot0y1',
+        linkedin: 'https://www.linkedin.com/in/paulo-rocha-aab21a68/recent-activity/all/',
+        repository: 'https://github.com/PauloRocha-85/gerador-de-link',
+        site: 'https://paulorocha-85.github.io/gerador-de-link/'
 
     },
     {
         title: 'Barber House',
         date: '30 de Julho de 2021',
         description: "A Barber House é uma landing page mobile-first que reúne os conceitos fundamentais de HTML5, CSS3 e JavaScript. Ela possui animações para fazer surgir gradualmente cada section no decorrer do scroll. Além de ser totalmente responsiva para diferentes tamanhos de tela, é uma página facilmente customizável, pois todas as cores utilizadas estão armazenadas em variáveis dentro do CSS.",
-        videoSrc: 'https://streamable.com/e/6ci737',
+        videoSrc: 'https://streamable.com/e/aot0y1',
         linkedin: 'https://www.linkedin.com/posts/rhuanbello_opentowork-css-html-activity-6827021119288156160-qT7i',
-        repository: 'https://rhuanbello.github.io/nlw6-origin/',
-        site: 'https://rhuanbello.github.io/nlw6-origin/'
+        repository: 'https://github.com/PauloRocha-85/gerador-de-link',
+        site: 'https://paulorocha-85.github.io/gerador-de-link/'
 
     },
     {

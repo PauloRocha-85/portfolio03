@@ -3,15 +3,13 @@
 const dataProjects = [
     {
         title: 'Login-Dark-Light',
-        date: '24 de Outubro de 2021',
-        description: `O DoWhile 2021 Card é uma aplicação interativa que mostra informações do usuário através da API do GitHub :D <br><br>
+        date: '18 de Dezembro de 2023',
+        description: `O Login-Dark-Light é uma aplicação simples e funcional de alteração de ambientes :D <br><br>
 
-        Após concluir o evento, adicionei funcionalidades extras, como: <br><br>
+        Testando habilidades e funcionalidades extras, como: <br><br>
         
-        • Modal para o usuário inserir seus próprios dados no Card; <br>
-        • Armazenamento dos dados inseridos pelo usuário no LocalStorage do navegador, fazendo com que as informações sejam mantidas mesmo após fechar a página; <br>
-        • Animação de Flip em 3D (com CSS puro); <br>
-        • Verso do Card com informações sobre o DoWhile 2021; <br>
+        • Formulário de acesso a página; <br>
+        • Ambiente claro ouescuro (com JavaScript puro); <br>
         • Versão Desktop e Mobile.`, 
         videoSrc: 'https://streamable.com/e/wsr3e5',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7158608472983396352/',
@@ -21,20 +19,16 @@ const dataProjects = [
     },
     {
         title: 'Site-do-Mario',
-        date: '28 de Outubro de 2021',
-        description: `Daily Weather é uma aplicação web que exibe a condição climática de todas as cidades, bairros, estados ou países do mundo. Obtendo tanto os dados da temperatura atual, quanto os dos próximos 7 dias, além da velocidade do vento, nível de umidade, data/hora e temperatura máxima e mínima. <br><br>
+        date: '28 de Dezembro de 2023',
+        description: `Site do Mario é um projeto que simula a página oficial do filme. <br><br>
 
         Esse projeto foi desenvolvido com as seguintes ferramentas: <br><br>
         
         • HTML5; <br>
-        • Vanilla JavaScript; <br>
-        • Compilador SASS; <br>
-        • Unsplash API; <br>
-        • Open Weather API (One Call & Current Weather Data); <br>
-        • LocalStorage API; <br>
-        • Moment.js; <br>
+        • JavaScript; <br>
+        • CSS; <br>
         `, 
-        videoSrc: 'https://streamable.com/e/nheskg',
+        videoSrc: 'https://streamable.com/e/aot0y1',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7146858557014011904/',
         repository: 'https://github.com/PauloRocha-85/Site-do-Mario',
         site: 'https://paulorocha-85.github.io/Site-do-Mario/'
@@ -57,8 +51,13 @@ const dataProjects = [
     },
     {
         title: 'Sejafit',
-        date: '28 de Setembro de 2021',
-        description: "Um E-Commerce utilizando apenas JavaScript (com localStorage) 🚀 <br><br> O objetivo desse segundo checkpoint era de desenvolver não só habilidades técnicas, mas também soft-skills como o trabalho em equipe e a organização. <br> Para essa entrega, nossa equipe (composta por Marcelo Garofalo, Filipe Farias e eu) decidiu transformar a entrega em uma loja virtual com JavaScript, alinhando o projeto com a nossa matéria de Programação Imperativa, ministrada pela instrutora Ana Cristina Teixeira. <br><br> Decidimos explorar as funcionalidades do localStorage para poder armazenar e recuperar as informações dos produtos adicionados ao carrinho, permitindo ao usuário alterar a quantidade de itens ou removê-los completamente. <br><br> Como demonstra o vídeo abaixo, mesmo após fecharmos o nosso navegador, os itens persistem em nosso carrinho de compras devido ao uso do localStorage, que armazena essas informações em nosso browser e possibilita a recuperação destes dados quando a página é aberta novamente.",
+        date: '06 de Fevereiro de 2024',
+        description: `Página de academia modelo padrão, onde se encontram as principais informações como:<br><br>
+        • Atividades e modalidades oferecidas; <br>
+        • Planos e mensalidades; <br>
+        • Informações e contato dos treinadores; <br>
+        • Dicas de saúde; <br>
+        • Promoções;`,
         videoSrc: 'https://streamable.com/e/sqsuf3',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7160777370524631040/',
         repository: 'https://github.com/PauloRocha-85/sejafit',
@@ -67,8 +66,8 @@ const dataProjects = [
     },
     {
         title: 'AppClima',
-        date: '23 de Setembro de 2021',
-        description: "Essa foi a minha tentativa de clonar a interface do YouTube utilizando HTML5, CSS3 e JavaScript. Com o conceito Don't Repeat Yourself na mente, fiz com que todo o projeto rodasse em uma única página manipulada pelo JavaScript, que fica responsável por atualizar o source e a descrição dos vídeos dependendo de qual vídeo o usuário seleciona, além de ocultar/exibir o sidebar e a main para dar destaque ao vídeo. Estou há aproximadamente um mês e meio estudando JavaScript e estou bem satisfeito por já estar conseguindo utilizá-lo para facilitar o desenvolvimento dos meus projetos, isso é extremamente motivador. Voltarei nesse projeto em breve para aprimorá-lo cada vez mais.",
+        date: '31 de Janeiro de 2024',
+        description: "App que apreseta as principais informações do clima atual da cidade ou estado selecionado.",
         videoSrc: 'https://streamable.com/e/pmd1u1',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7158588359185989632/',
         repository: 'https://github.com/PauloRocha-85/appclima',
